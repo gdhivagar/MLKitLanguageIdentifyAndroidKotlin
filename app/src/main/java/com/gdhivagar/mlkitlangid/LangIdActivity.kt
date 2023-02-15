@@ -40,7 +40,6 @@ class LangIdActivity : AppCompatActivity() {
             binding.etInput.text.clear()
             binding.tvOutput.text = ""
         }
-
     }
 
     /**
